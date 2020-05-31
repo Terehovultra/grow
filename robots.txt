@@ -1,2 +1,0 @@
-User-agent: *
-Sitemap: http://growor.com/sitemap.xml
